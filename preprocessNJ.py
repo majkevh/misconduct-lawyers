@@ -20,8 +20,6 @@ def remove_extra_rows_NJ(state = "NJ"):
 
 def extract_labels_rpc_NJ(text):
     # This regex looks for 'RPC ' followed by any 4 characters (and remove non-numbers)
-    matches = re.findall(r'RPC (.{4})', text)    
-    cleaned_matches = [''.join(re.findall(r'[\d\.]', match)) for match in matches]
-
-    return cleaned_matches
+    matches = re.findall(r'RPC (\d+\.\d{1,2})', text)
+    return matches
 
