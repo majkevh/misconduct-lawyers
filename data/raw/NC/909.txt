@@ -1,0 +1,756 @@
+STATE OF NORTH CAROL
+
+BEFORE THE
+ARY HEARING COMMISSION
+
+WAKE COUNTY
+
+Plaintiff
+ORDER OF DISCIPLINE
+
+v.
+JOHN A. MAUNEY, Attorney,
+Defendant
+THIS MATTER was heard on 27 June 2013 by a hearing panel of the Disciplinary
+Hearing Commission composed of Fred M. Morelock, Chair, Irvin W. Hankins, TIl, and Joseph
+Barlow Herget pursuant to 27 N.C.A.C. IB § .0114 of the Rules and Regulations of the North
+Carolina State Bar. Carmen Hoyme Bannon represented Plaintiff, the North Carolina State Bar.
+Defendant was not represented by counsel and did not appear at the hearing.
+Based upon the pleadings and evidence presented at the hearing, the hearing panel hereby
+fmds by clear, cogent, and convincing evidence the fo !lowing
+FINDINGS OF FACT
+I.
+Plaintiff, the North Carolina State Bar ("Plaintiff' or "State Bar"), is a body duly
+organized under the laws of North Carolina and is the proper party to bring this proceeding under
+the authority granted it in Chapter 84 of the General Statutes of North Carolina, and the rules and
+regulations of the North Carolina State Bar promulgated thereunder.
+2.
+Defendant, John A. Mauney, was admitted to the North Carolina State Bar in
+August 1979 and is an Attorney at Law subject to the rules, regulations, and Rules of
+Professional Conduct of the North Carolina State Bar and the laws of the State of North
+Carolina.
+3.
+During the relevant period referred to herein, Mauney was actively engaged in the
+practice of law in Kitty Hawk, Dare County, North Carolina.
+4.
+Mauney was properly served with process and received due notice of the hearing
+in this matter.
+5.
+Mauney was the sole owner of a professional corporation, John A. Mauney &
+Associates, PC ("Mauney & Associates" or "the firm"), under which name he operated his law
+firm.
+1
+
+6.
+In connection with his law practice, Mauney maintained two attorney trust
+accounts at RBe Bank (account numbers ending in -7955 and -7998). Mauney also maintained
+two attorney trust accounts at First Bank (account numbers ending in -0608 and -0802). The
+primary operating account and payroll account for Mauney & Associates were also at First Bank.
+7.
+On numerous occasions Mauney transferred money from his operating account
+into one of his trust accounts without identifYing the purpose of the transfer. The amounts of
+these transfers exceeded the amounts necessary to pay any bank service charges on the trust
+accounts.
+8.
+On numerous occasions Mauney deposited funds received in trust from clients for
+court costs andlor filing fees into his operating account.
+9.
+On numerous occasions Mauney disbursed money from his trust accounts to his
+operating account via online transfers that did not capture the purpose of the disbursement or the
+client balance against which it was drawn.
+10.
+
+Mauney did not maintain the following records for his trust accounts:
+(a) Documentation of the source of all deposits and the client on whose behalf the
+deposit was received.
+(b) Copies of all checks drawn on the accounts showing the recipient of the
+disbursement and the client balance against which it was drawn.
+(c) Records of electronic withdrawals andlor transfers showing the recipient of the
+disbursement and the client balance against which it was drawn.
+(d) General ledgers of receipts and disbursements identifYing the client on whose
+behalf each receipt and disbursement was made.
+
+11.
+For each of his four trust accounts, Mauney did not compare the balance in the
+account as shown on his records to the monthly bank statement balance.
+12.
+For each of his four trust accounts, Mauney did not total his individual client
+ledger balances and compare them to the current bank statement balance at least quarterly.
+13.
+In 2008 and 2009, Mauney & Associates had employees who provided services
+directly related to and for the benefit of Mauney's law practice.
+14.
+As the managing attorney of Mauney & Associates, Mauney had authority over
+the funds in bank accounts maintained by Mauney & Associates and made decisions concerning
+how and when those funds would be spent.
+15.
+When Mauney & Associates paid its employees, it was required to withhold funds
+from the employees' paychecks to pay federal taxes.
+
+2
+
+16.
+From the time the funds were withheld from employees' paychecks until they
+were paid to the IRS, Mauney & Associates andlor Mauney were obligated to hold the funds in
+trust for the benefit of the IRS.
+17.
+Mauney was a "responsible person" within the meaning of Title 26 of the United
+States Code, in that he had the power to see that the tax obligations of Mauney & Associates
+were paid.
+18.
+Funds withheld from employee paychecks were entrusted funds that Mauney was
+required to hold in trust as a fiduciary for his employees andlor the IRS. Mauney had a fiduciary
+duty to deliver all withheld funds to the IRS.
+19.
+For the entirety of 2008 and for the first quarter of 2009 ("the lien period"), funds
+withheld by Mauney & Associates from employee paychecks were not delivered to the IRS as
+required by law and were instead utilized for the benefit of Mauney & Associates andlor for the
+benefit of Mauney.
+20.
+Mauney's failure to pay over to the IRS funds withheld from employee paychecks
+during the lien period was willful.
+21.
+In August 2009, the IRS filed a Notice of Federal Tax Lien against Mauney &
+Associates. The notice of lien stated that Mauney & Associates owed a total of $179,650.86 for
+unpaid employer withholding taxes for the lien period.
+22.
+In August 2010, the IRS filed a Notice of Federal Tax Lien against Mauney
+individually. The notice of lien against Mauney assessed $92,591.05 in Trust Fund Recovery
+Penalties against Mauney.
+23.
+Trust Fund Recovery Penalties are assessed, pursuant to 26 U.S.C. § 6672, against
+any person required to collect, truthfully account for, and pay over any tax who willfully fails to
+collect, or truthfully account for and pay over the tax.
+24.
+Mauney permitted one or more non-lawyer employees of Mauney & Associates to
+exercise control over his four attorney trust accounts, payroll account, and operating account.
+25.
+Mauney had direct supervisory authority over the non-lawyer employees of the
+firm, but did not regularly review activity in any of the bank accounts referenced in paragraph
+24.
+26.
+Mauney did not employ any other policy or procedure to ensure that the nonlawyer employees of Mauney & Associates who received and disbursed funds (including
+entrusted funds) complied with the law and the Rules of Professional Conduct.
+27.
+On 2 September 2009, Mauney served as the closing attorney for a real estate
+transaction in which Mary Wade purchased property in Nags Head, NC.
+
+3
+
+28.
+In connection with Wade's closing, Mauney received $650.00 in trust for the
+payment of the title insurance premium. Mauney did not disburse this amount to the title
+company and did not obtain a title policy for Wade.
+29.
+Wade's closing was one of more than thirty closings conducted by Mauney during
+the eighteen month period from August 2008 through January 20 lOin which Mauney collected
+entrusted funds for title insurance premiums but did not remit the premiums to the title company
+and did not obtain title policies for his clients.
+30.
+On 2 July 2010, Mauney served as the closing attorney for a real estate
+transaction in which Jeffrey and Kellie Gardner purchased property in Jarvisburg, NC.
+31.
+In connection with the Gardners' closing, Mauney received the following
+amounts in trust:
+(a) $1,107.00 designated for payment of their homeowner's insurance premium;
+(b) A total of $968.00 designated for payments to third parties who provided septic,
+well, and plumbing services on the property; and
+(c) $550.00 to be held in escrow pending completion of home repairs and then paid to
+the Gardners.
+32.
+
+Mauney did not disburse the entrusted funds described in paragraph 31 above.
+
+33.
+When the Gardners contacted Mauney regarding his non-payment of the funds
+described in paragraph 31, they were told that his trust account had been frozen.
+34.
+The Gardners requested a letter explaining the unavailability of the entrusted
+funds that they could present to their creditors, but Mauney did not provide such a letter.
+35.
+In October 2008, Chase and Betty Crawford hired Mauney on a contingent fee
+basis to represent them in bringing a civil suit. The Crawfords provided Mauney with
+$10,000.00 to be used for litigation costs and expenses.
+36.
+Mauney did not incur any litigation expenses for the Crawfords beyond standard
+filing fees mid minimal incidental costs, such as postage andlor copying.
+37.
+Mauney's trust account records do not reflect any disbursements for the benefit of
+the Crawfords. Mauney never provided the Crawfords with an accounting of how their entrusted
+funds were disbursed.
+38.
+On 15 October 2008, Mauney deposited the Crawfords' $10,000.00 into his First
+Bank trust account ending in 0802 ("the non-real estate trust account").
+39.
+In February of 2009, Mauney was confronted by one of his employees about the.
+fact that entrusted funds to which the firm was not entitled were being withdrawn from the nonreal estate trust account and used for the firm's benefit.
+
+4
+
+40.
+By 26 August 2009, the balance in Mauney's First Bank trust account ending in
+0802 had dropped to only $205.53, meaning the majority of the Crawfords' funds had been
+disbursed from the trust account by that date.
+41.
+Between October 2008 when he received the Crawfords' $10,000.00 in trust and
+August 2009 when the account balance was $205.53, Mauney transferred a total of $204,674.40
+from that trust account into his operating account using online transfers that did not capture the
+client balance against which the disbursement was being made.
+42.
+Between October 2008 when he received the Crawfords' $10,000.00 in trust and
+August 2009 when the account balance was $205.53, Mauney made numerous disbursements
+from that account for the benefit of other clients.
+43.
+Because Ma~ney incurred only minimal litigation expenses for the benefit of the
+Crawfords, the majority of the $10,000.00 they entrusted to Mauney was used for disbursements
+to the firm and/or to other clients of the firm.
+44.
+The Crawfords did not authorize Mauney to use their money for his personal
+benefit, the benefit of the firm, or the benefit of third parties.
+45.
+On 6 April 2010, the State Bar received notice from RBC Bank that a check had
+been presented against one of Mauney's trust accounts when the balance in that account was
+insufficient to cover the check (this notification is referred to hereafter as an "NSF notice").
+46.
+On 9 April 2010, Mauney received a certified letter from the State Bar requesting
+an explanation of the NSF notice. The letter provided that he was required to respond within 15
+days. Mauney did not respond. A second certified letter regarding the NSF notice, sent 5 May
+20 I 0, was returned marked "unclaimed."
+47.
+In August 2010, Mauney was served with a Letter of Notice and Subpoena for
+Cause Audit in grievance file 1000830, which related to overdrafts in his trust accounts. He was
+required to respond in writing to the Letter of Notice within 15 days. Mauney did not submit a
+response to the Letter of Notice until October 2011.
+48.
+The Subpoena for Cause Audit required Mauney to produce bank records for his
+four trust accounts, monthly and quarterly reconciliations of the accounts, client ledgers,
+settlement statements, disbursement summaries, HUD-I Settlement Statements, cash receipts,
+and SoftPro-generated accounting documents. The subpoena required Mauney to produce these
+documents to the State Bar by 7 September 20 IO. Mauney did not produce the documents by
+that date.
+49.
+On four occasions between September 13 and October 21, 2010, Mauney
+produced to the State Bar documents that were partially responsive to the subpoena. Many of
+these records were illegible. Mauney did not produce complete records and did not comply fully
+with the subpoena.
+
+5
+
+50.
+In November 2010, Mauney left the country. After he returned from more than
+eight months abroad, Mauney was interviewed by the State Bar about his trust accounts in
+August 20 II.
+51.
+At the August 2011 interview, Mauney was provided with a list of documentation
+and information that he had not produced in response to the subpoena andlor was necessary in
+order for the State Bar to complete its analysis of his trust accounts. Mauney was asked to
+produce the listed documents but did not do so. The State Bar reiterated this request for
+information on at least five occasions over the ensuing year. Mauney did not comply with the
+request.
+52.
+Mauney served as the registered agent for numerous North Carolina limited
+liability companies ("LLCs"). In addition to performing the duties of a registered agent, Mauney
+agreed to be responsible for filing the LLCs' annual reports with the Secretary of State.
+53.
+In 2009, Mauney did not file annual reports for many of the LLCs for which he
+served as registered agent.
+54.
+In the spring of 2010, Mauney received notices from the Department of the
+Secretary of State notifying him that more than twenty of the LLCs for which he served as
+registered agent were at risk of being administratively dissolved due to delinquency in filing
+annual reports.
+55.
+Mauney did not file the delinquent annual reports and did not notify his clients
+who were owners/members of the LLCs about the delinquencies.
+56.
+In August and September 2010, Mauney received notices from the Department of
+the Secretary of State that at least twenty of the LLCs for which he had not filed annual reports
+were being administratively dissolved. Mauney did not notifY his clients who were
+owners/members of the LLCs of the dissolutions.
+57.
+By 9 November 2010, Mauney had closed his law practice, put all of his records
+in storage, and travelled to Ecuador, where he planned to remain for an extended period.
+58.
+When Mauney closed his law practice, he did not notifY all current clients that he
+would no longer represent them. He did not notify clients who were owners/members of the
+LLCs for which he served as registered agent that he would no longer serve in that capacity.
+59.
+When Mauney closed his law practice, he did not inform current and former
+clients regarding the whereabouts of their files or how they could obtain those files.
+60.
+From late August through mid-October, the Gardners were communicating with
+Mauney's office about their entrusted funds and an outstanding issue with their deed.
+Eventually, they were unable to contact the office by phone. Mr. Gardner learned that Mauney
+had closed his practice by visiting the office and observing that it was vacant.
+
+6
+
+Based on the record and the foregoing Findings of Fact, the hearing panel makes the following:
+CONCLUSIONS OF LAW
+
+I.
+All parties are properly before the hearing panel and this tribunal has jurisdiction
+over Defendant, John A. Mauney, and the subject matter of this proceeding.
+2.
+Defendant's conduct, as set out in the Findings of Fact above, constitutes grounds
+for discipline pursuant to N.C. Gen. Stat. § 84-28(b)(2) in that Mauney violated the Rules of
+Professional Conduct in effect at the time of the conduct as follows:
+(a)
+
+By transferring money from his operating accounts into his trust accounts,
+Mauney commingled personal and entrusted funds in his trust accounts in
+violation of Rule 1.15-2(1);
+
+(b)
+
+By depositing funds received for court costs andlor filing fees into his operating
+account, Mauney did not deposit entrusted funds into a trust account in violation
+of Rule 1.I5-2(b);
+
+(c)
+
+By disbursing money from his trust accounts into his operating accounts via
+online transfers, Mauney used items that did not capture the client balance against
+which the disbursement was made to withdraw funds from a trust account for
+payment to himself in violation of Rule l.lS-2(h);
+
+(d)
+
+By failing to maintain adequate documentation of deposits, disbursements, and
+electronic withdrawals, and by failing to maintain complete general ledgers for his
+trust accounts, Mauney violated Rule 1.IS-3(b);
+
+(e)
+
+By failing to perform monthly or quarterly reconciliations of his trust accounts,
+Mauney violated Rule 1.1S-3(d);
+
+(t)
+
+By willfully failing to pay over to the IRS funds withheld from the paychecks of
+Mauney & Associates employees, Mauney violated 26 U.S.C. § 7202, which is a
+criminal act reflecting adversely on his honesty, trustworthiness and fitness as a
+lawyer in violation of Rule 8A(b);
+
+(g)
+
+By using funds held in trust for the IRS for personal benefit or the benefit of his
+law firm, Mauney used entrusted funds for his own benefit or the benefit of
+someone other than the legal or beneficial owner of the funds in violation of Rule
+1.IS-2(j) and committed a criminal act reflecting adversely on his honesty,
+trustworthiness or fitness as a lawyer-embezzlement-in violation of Rule
+8A(b);
+
+(h)
+
+By not implementing any policy or procedure to ensure that his non-lawyer
+employees handled funds (including entrusted funds) in compliance with the law
+and the Rules, Mauney did not make reasonable efforts to ensure that the firm had
+in effect measures giving reasonable assurance that the non-lawyers' conduct was
+compatible with Mauney's professional obligations in violation of Rule 5.3(a);
+
+7
+
+(i)
+
+By failing to regularly review the activity in any of his law firm accounts
+including his trust accounts, Mauney did not make reasonable efforts to ensur~
+that the conduct of a non-lawyer over whom he had direct supervisory authority
+was compatible with his professional obligations in violation of Rule 5.3(b);
+
+(j)
+
+By failing to timely pay title insurance premiums and obtain title policies for at
+least thirty of his real estate clients, including Wade, Mauney did not promptly
+pay entrusted funds to a third party in violation of Rule J.15-3(m) and did not act
+with reasonable diligence on behalf of his clients in violation of Rule 1.3;
+
+(k)
+
+By failing to disburse to the appropriate recipients entrusted funds he collected in
+connection with the Gardners' closing and by failing to honor the Gardners'
+request for a written explanation of why the funds were not available, Mauney did
+not promptly pay entrusted funds to his clients and/or a third party in violation of
+Rule 1.J5-3(m) and did not act with reasonable diligence on behalf of his clients
+in violation of Rule 1.3;
+
+(I)
+
+By failing to provide the Crawfords an accounting for the use of their entrusted
+funds, Mauney violated Rule J.15-3(e);
+
+(m)
+
+By using entrusted funds belonging to the Crawfords for the benefit of himself,
+his firm, and/or his other clients, Mauney used entrusted funds without
+authorization for the benefit of a third party in violation of Rule 1.15-2(j),
+committed a criminal act reflecting adversely on his honesty, trustworthiness or
+fitness as a lawyer-to wit: embezzlement-in violation of Rule 8.4(b), and
+engaged in conduct involving dishonesty, deceit, or misrepresentation in violation
+of Rule 8.4(c);
+
+(n)
+
+By not responding to the NSF notice, not timely responding to the Letter of
+Notice regarding grievance file t OG0830, and not complying with the Subpoena
+for Cause Audit despite repeated requests for compliance, Mauney failed to
+produce trust account records for audit by the State Bar in violation of Rule 1.153(h) and knowingly failed to respond to a lawful demand for information from a
+disciplinary authority in violation of Rule 8.J(b);
+
+(0)
+
+By failing to file annual reports and failing to inform clients who had an interest
+in the LLCs for which he served as registered agent about the delinquent filings
+and dissolutions, Mauney did not act with reasonable diligence in violation of
+Rule 1.3 and did not explain a matter to the extent reasonably necessary to permit
+his clients to make informed decisions regarding the representation in violation of
+Rule tA(b);
+
+(p)
+
+By failing to notifY clients, including the Gardners, that he was closing his law
+practice and would not assist them further with their legal matters, Mauney did
+not keep his clients reasonably informed of the status of their legal matters and
+did not explain matters to the extent reasonably necessary to permit the clients to
+
+8
+
+make informed decisions regarding the representation, in violation of Rule 1.4(a)
+& (b); and
+
+(q)
+
+By failing to inform clients who had an interest in the LLCs for which he served
+as registered agent that he would no longer serve in that capacity and failing to
+inform current and former clients regarding the whereabouts of their files or how
+to access those files when he closed his law practice, Mauney did not take steps to
+the extent reasonably practicable to protect his clients' interests upon termination
+of the representation in violation of Rule 1.16(d).
+
+3.
+Defendant's conduct, as set out in the Findings of Fact above, also constitutes
+grounds for discipline pursuant to N.C. Gen. Stat. § 84-28(b)(3) in that failing to respond to the
+NSF notice, failing to timely respond to the Letter of Notice regarding grievance file 10G0830,
+and failing to comply with the Subpoena for Cause Audit despite repeated requests for
+compliance were failures to answer a formal inquiries issued by the North Carolina State Bar in a
+disciplinary matter.
+Based upon the foregoing Findings of Fact and Conclusions of Law, the record in this
+case, and the additional evidence regarding discipline presented at the hearing, the hearing panel
+hereby finds by clear, cogent, and convincing evidence the following additional
+FINDINGS OF FACT REGARDING DISCIPLINE
+1.
+The findings of fact in paragraphs I through 60 above are reincorporated as if
+fully set forth herein.
+2.
+In September 2009, Mauney entered into an installment payment agreement with
+the IRS for the unpaid employee withholding taxes described above. Mauney did not comply
+with the terms of that agreement and the IRS issued a notice of default in April 2010.
+3.
+After the "lien period" described in the Findings of Fact above, several additional
+Notices of Federal Tax Lien were filed against Mauney's firm, reflecting his continued nonpayment of employee withholding taxes in 2009 and 2010.
+4.
+Mauney also did not make payments to the North Carolina Department of
+Revenue for state withholding taxes during the lien period. The evidence presented in this case
+established that Mauney willfully failed to pay state and federal payroll withholding taxes over
+an extended period, which is a felony under state and federal law, respectively.
+5.
+When lawyers violate the law in their business and personal affairs, it brings
+disrepute upon the legal profession and undermines public confidence in lawyers.
+6.
+Mauney's failure to file annual reports for LLCs and failure to notify the
+individual clients with an interest in the LLCs that Notices of Grounds for Administrative
+Dissolution had been issued created a foreseeable risk that the entities would be dissolved to the
+clients' detriment.
+
+9
+
+7.
+Mauney's failure to obtain title insurance policies for real estate clients and
+mortgage lenders created a foreseeable risk of significant harm by leaving the buyers and lenders
+unprotected against potential future claims or clouds on title.
+8.
+The Crawfords were in a particularly vulnerable position when they sought
+Defendant's assistance, in that they were a young couple who had recently suffered the loss of
+their business and had a large monetary award entered against them due to a default judgment.
+Moreover, the $10,000.00 they entrusted to Mauney was all the money they had left to pursue
+thei~ case. Because Defendant misappropriated the Crawfords' funds, they could not afford to
+pursue their claims and were forced to abandon them.
+9.
+As a result of Defendant's actions, the Crawfords were unable to achieve the
+goals of the legal representation. Specificany, they lost the opportunity to challenge the
+judgment that had been entered against them, and were unable to pursue related claims regarding
+the loss of their business.
+10.
+Mauney's failure to promptly disburse entrusted funds to third parties as directed
+by the Gardners created a foreseeable risk that creditors of the Gardners would not be paid for
+goods and services rendered, and a foreseeable risk that those creditors would try to collect from
+the Gardners funds which were no longer available because they had been entrusted to Mauney.
+II.
+The Gardners were in a vulnerable position when they sought Defendant's
+representation for the closing on their home. The Gardners and their children were moving to
+North Carolina from out of state, and relied on Mauney to use the funds they entrusted to him to
+pay substantial costs associated with the closing. Because Defendant did not pay those costs, the
+Gardners had to pay them out-of-pocket, resulting in significant financial harm.
+12.
+Neither the Crawfords nor the Gardners have recouped from another source the
+money they entrusted to Mauney.
+13.
+Mauney's former clients testified that due to their experience with Mauney, they
+will be more cautious about trusting lawyers in the future.
+14.
+Defendant gave sworn deposition testimony in this case. During that deposition,
+Defendant made demonstrably false statements under oath. For example:
+a. Defendant testified that he was unable to produce documents requested by the
+State Bar because they were among voluminous documents seized by the Kitty
+Hawk Police Department (KHPD) in connection with its investigation of
+Mauney's allegation that one of his employees embezzled from the law firm.
+Credible testimony at the hearing established that KHPD had only minimal
+records from Mauney's law firm, that those documents were copies, not originals,
+and that none of the documents in KHPD's possession were responsive to the
+State Bar's requests.
+b. Defendant testified that in April 2009 when he "discovered" that his wife had not
+paid the firm's employee withholding taxes for more than a year, he immediately
+terminated her employment at the firm. This statement is directly contradicted by
+10
+
+a document authored by Defendant in which he informed his CPA that as a costcutting measure, his wife would "retire" from the firm at the end of August 2009.
+c. Defendant testified that for the "twenty-something years before [2009]" he "never
+had an issue" with payment of employee withholding taxes. This statement was
+false, as evidenced by a 1998 tax lien against J.A. Mauney, PA for employee
+withholding taxes that were not paid in 1992 and 1996.
+d. Defendant testified that the only income he personally received from his law firm
+was his salary, which remained the same "forever." The evidence presented in
+this proceeding showed that Mauney in fact received significant additional
+income from the firm, over and above his salary.
+15.
+Although Defendant initially participated in this matter, he did not respond fully
+and completely to the State Bar's discovery requests and did not comply with this tribunal's
+order compelling him to produce certain documents requested by the State Bar. Mauney also did
+not appear at the hearing in this matter, as required by 27 N.C.A.C. 1B § .0114(m) ("The
+defendant will appear in person before the hearing panel at the time and place named by the
+chairperson").
+16.
+No evidence was presented that tended to show Mauney's non-compliance with
+the rules and orders of this tribunal was a good faith mistake or the result of excusable neglect.
+17.
+Mauney's failure to comply with the rules and orders of a tribunal is not limited to
+this case: In January 2013, an Order of Contempt was issued by the Dare County District Court
+due to Mauney's non-compliance with a prior Order of Sanctions against him for violating Rule
+11 of the Rules of Civil Procedure.
+18.
+It undermines the administration of justice when attorneys do not comply with the
+rules and orders of a tribunal.
+19.
+Self-regulation of the legal profession depends upon the cooperation and
+participation of lawyers in the self-regulatory process. When a lawyer refuses to respond to a
+disciplinary authority, submits false evidence in a disciplinary proceeding, andlor does not
+participate in the disciplinary process, it undermines the system of self-regulation.
+20.
+
+Defendant has no prior professional discipline.
+
+21.
+Defendant's course of conduct over an extended period of time was characterized
+by prioritizing his own pecuniary interests over his clients' interests and his obligation to comply
+with the law.
+
+22.
+Defendant's mishandling and misappropriation of entrusted funds created a
+foreseeable risk that some other entity. such as an insurance carrier or the North Carolina State
+Bar's Client Security Fund, would bear the financial consequences of his misconduct.
+
+11
+
+23.
+Mauney's response to the State Bar's grievance inquiry, answer to the DHC
+complaint, and deposition testimony reflect a pervasive tendency to blame others for the
+consequences of his misconduct rather than expressing remorse or acknowledging wrongdoing.
+24.
+Mauney did not take steps to mitigate or rectifY the harm to his clients and third
+parties that resulted from his misconduct.
+25.
+Clients are entitled to attorneys they can trust. A lawyer's conversion of entrusted
+funds is an egregious breach of fiduciary duty, reflecting the lawyer's lack of trustworthiness and
+integrity. By engaging in multiple instances of dishonest conduct and deceit over a substantial
+period oftime, Mauney has shown himself to be untrustworthy.
+Based upon the foregoing Findings of Fact, Conclusions of Law, and Additional Findings
+of Fact Regarding Discipline, and upon consideration of the factors set forth in 27 N.C. Admin.
+Code Chapter I, Subchapter B, § .OI14(w), the hearing panel hereby enters the following
+additional
+CONCLUSIONS OF LAW REGARDING DISCIPLINE
+1.
+The hearing panel considered all of the factors enumerated in 27 N.C.A.C. 18 §
+.OI14(w) of the Discipline and Disciplinary Rules of the North Carolina State Bar and concludes
+that the following factors are present in this case:
+(a)
+
+The intent of the Defendant to commit acts where the harm or potential harm
+is foreseeable;
+
+(b)
+
+Defendant's lack of honesty, trustworthiness and integrity;
+
+(c)
+
+Defendant'S elevation of his own interests above that ofa client;
+
+(d)
+
+The negative impact of Defendant's actions on the client's and the public's
+perception of the profession;
+
+(e)
+
+The negative impact on the administration of justice;
+
+(f)
+
+The impairment of the client's ability to achieve the goals of the
+representation;
+
+(g)
+
+The effect of Defendant's conduct on third parties;
+
+(h)
+
+Multiple instances of failure to participate in the legal profession's selfregulation process;
+
+(i)
+
+Acts of dishonesty, misrepresentation, deceit or fabrication;
+
+G)
+
+Misappropriation or conversion of assets to which Defendant was not entitled;
+
+(k)
+
+Commission of a felony;
+
+12
+
+(I)
+
+An absence of prior disciplinary offenses;
+
+(m)
+
+Dishonest or selfish motive;
+
+(n)
+
+Indifference to making restitution;
+
+(0)
+
+Pattern of misconduct;
+
+(P)
+
+Multiple offenses;
+
+(q)
+
+Bad faith obstruction of the disciplinary proceedings by intentionally failing to
+comply with rules or orders of the disciplinary agency;
+
+(r)
+
+Submission of false evidence, false statements, or other deceptive practices
+during the disciplinary process;
+
+(s)
+
+Refusal to acknowledge wrongful nature of conduct;
+
+(t)
+
+Lack of remorse; and
+
+(u)
+
+Vulnerability of the victims.
+
+2.
+The hearing panel has considered all forms of written discipline and suspension as
+potential discipline but finds that written discipline or suspension would not be sufficient
+discipline because of the gravity of the harm and potential harm to Defendant's clients, the
+public, the administration of justice, and the profession in the present case. In light of all the
+relevant facts and circumstances, the hearing panel finds and concludes that only Defendant's
+disbarment will adequately protect the public.
+3.
+The hearing panel concludes that discipline short of disbarment would not
+adequately protect the public for the follOwing reasons:
+(a)
+
+In a fiduciary relationship like that of attorney and client, one person, in a
+position of vulnerability, justifiably places confidence, reliance and trust in
+another whose aid, advice or protection is sought. In such a relationship the
+fiduciary must act at all times for the benefit and interest of the person who
+trusts. Mauney betrayed clients who relied on and trusted him, demonstrating
+that he is not fit to serve as a fiduciary.
+
+(b)
+
+Mauney committed misdeeds involving moral turpitude and violations of the
+public trust, including misrepresentations and deceit. Misconduct involving
+misrepresentations and deceit are among the most serious that an attorney can
+commit. Such offenses demonstrate that the offending attorney is not
+trustworthy. Clients are entitled to have trustworthy attorneys.
+
+13
+
+(c)
+
+Mauney engaged in criminal acts reflecting adversely on his honesty,
+trustworthiness or fitness as a lawyer, and engaged in abuses of trust by
+embezzling funds entrusted to him by his clients.
+
+(d)
+
+Entry of an order imposing less serious discipline would fail to acknowledge
+the seriousness of the offenses Mauney committed and would send the wrong
+message to attorneys and the public regarding the conduct expected of
+members of the Bar of this State.
+
+(e)
+
+The protection of the public and the legal profession requires that Mauney not
+be permitted to resume the practice of law until he demonstrates the
+following: that he has reformed; that he understands his obligations to his
+clients, the public, and the legal profession; and that permitting him to practice
+law will not be detrimental to the public or the integrity and standing of the
+legal profession or the administration of justice. Disbarred lawyers are
+required to make such a showing before they may resume practicing law.
+
+Based upon the foregoing Findings of Fact, Conclusions of Law, and Additional Findings
+and Conclusions Regarding Discipline, the hearing panel enters the following
+ORDER OF DISCIPLINE
+I.
+
+Defendant, John A. Mauney, is hereby DISBARRED from the practice of law.
+
+2.
+Defendant shall surrender his license and membership card to the Secretary of the
+North Carolina State Bar no later than 30 days following service of this order upon Defendant.
+3.
+Defendant shall pay the administrative fees and costs of this proceeding as
+assessed by the Secretary of the North Carolina State Bar. Defendant must pay the fees and costs
+within 30 days of service upon him of the statement of costs by the Secretary.
+4.
+Defendant shall comply with all provisions of27 NCAC IB § .0124 of the North
+Carolina State Bar Discipline & Disability Rules.
+
+Signed by the Chair with the consent of the other hearing panel members, this the
+day ofJuty, 2013.
+
+Fred M. Morelock, Chair
+Disciplinary Hearing Panel
+
+14
+
+IS'f1--
+
+
