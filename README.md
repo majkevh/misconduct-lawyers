@@ -9,6 +9,7 @@
 - ``model/fine-tuned bert`` - Fine-tuning BERT model training for 2 tasks of the project.
 - ``model/pretrained bert`` - Pretrained BERT model training for 2 tasks of the project.
 - ``⁠utils⁠`` - Contains utility scripts e.g., lemmatization function.
+- ``automaticClust.ipynb`` - Jupyter Notebook containing the automatic clustering for binning.
 
 ## Installation
 To reproduce the analysis environment, you will need Python 3.9 or later. Please install the required Python packages listed in `requirements.txt`.
