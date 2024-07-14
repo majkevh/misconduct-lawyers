@@ -1,4 +1,4 @@
-# Text classifier for lawyers disciplinary actions:\\ A large-scale empirical analysis
+# Text classifier for lawyers disciplinary actions: A large-scale empirical analysis
 **Authors**: Michael Etienne Van Huffel, Anton Hul
 
 ## Project structure
