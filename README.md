@@ -2,13 +2,13 @@
 **Authors**: Michael Etienne Van Huffel, Anton Hul
 
 ## Project structure
-- ⁠`⁠ data/raw ⁠` - raw data obtained through public sources.
--⁠  ⁠`⁠ data/csv_files ⁠` - separate csv files containing the preprocessed data for each state.
--⁠  ⁠`⁠ corpus_preprocessing/preprocess_"state" ⁠` - separate script for each state that preprocess the dataset.
--⁠  ⁠`⁠ model/logreg ⁠` - logistic regression model training for 2 tasks of the project
--⁠  ⁠`⁠ model/fine-tuned bert ⁠` - fine-tuning BERT model training for 2 tasks of the project 
--⁠  ⁠`⁠ model/pretrained bert ⁠` - pretrained BERT model training for 2 tasks of the project
--⁠  ⁠`⁠ utils ⁠` - contains utility scripts e.g., lemmatization function
+- ``data/raw`` - Raw data obtained through public sources.
+- ``data/csv_files`` - Separate csv files containing the preprocessed data for each state.
+- ``corpus_preprocessing/preprocess_"state`` - Separate script for each state that preprocess the dataset.
+- ``model/logreg`` - Logistic regression model training for 2 tasks of the project.
+- ``model/fine-tuned bert`` - Fine-tuning BERT model training for 2 tasks of the project.
+- ``model/pretrained bert`` - Pretrained BERT model training for 2 tasks of the project.
+- ``⁠utils⁠`` - Contains utility scripts e.g., lemmatization function.
 
 ## Installation
 To reproduce the analysis environment, you will need Python 3.9 or later. Please install the required Python packages listed in `requirements.txt`.
